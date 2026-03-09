@@ -1,0 +1,32 @@
+{
+  "satellites": [
+    {
+      "id": "hubble",
+      "name": "Hubble Space Telescope",
+      "type": "Scientific",
+      "status": "Active",
+      "altitude": 540
+    },
+    {
+      "id": "starlink-2048",
+      "name": "Starlink-2048",
+      "type": "Communication",
+      "status": "Active",
+      "altitude": 550
+    },
+    {
+      "id": "navic-1g",
+      "name": "NavIC-1G",
+      "type": "Navigation",
+      "status": "Inactive",
+      "altitude": 36000
+    },
+    {
+      "id": "sentinel-2a",
+      "name": "Sentinel-2A",
+      "type": "Earth Observation",
+      "status": "Active",
+      "altitude": 786
+    }
+  ]
+}
